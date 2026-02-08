@@ -11,7 +11,7 @@
 
 <!-- ANIMATED TYPING -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Account+Manager;Tech+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Account+Manager;Product+Engineer;Tech+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
 
 <!-- SOCIAL BADGES -->
 <br/>
