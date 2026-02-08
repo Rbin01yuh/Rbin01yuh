@@ -40,7 +40,7 @@ const ridho = {
 - 💼 **Account Manager** who loves integrating technology into daily workflows
 - 🚀 Passionate about leveraging tech solutions for business optimization
 - 🌱 Always exploring automation and data-driven insights
-- 📧 Reach me at: **ridho.bintang@example.com**
+- 📧 Reach me at: **ridhobintangaulia5@gmail.com**
 
 <br/>
 
