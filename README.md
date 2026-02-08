@@ -29,10 +29,10 @@
 
 ```javascript
 const ridho = {
-  role: "Account Manager",
+  role: "Product Engineer | Account Manager",
   passion: "Tech Enthusiast",
   location: "Indonesia 🇮🇩",
-  skills: ["Business Development", "Tech Integration", "Client Relations"],
+  skills: ["Product Engineering, Business Development", "Tech Integration", "Client Relations"],
   motto: "Bridging business with technology",
 };
 ```
