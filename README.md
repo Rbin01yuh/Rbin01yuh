@@ -123,7 +123,7 @@ const ridho = {
 <a href="https://open.spotify.com/track/5qG3nkoEHPBGQeHpVPG7Qp">
   <img src="https://img.shields.io/badge/▶%20Play%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
 </a>
-
+ 
 </div>
 
 <br/>
