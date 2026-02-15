@@ -6,7 +6,7 @@
 <!-- PROFILE PHOTO -->
 <img src="./lau sape mpruy.jpg" width="350" style="border-radius: 20px;"/>
 
-<br/>
+<br/> 
 <br/>
 
 <!-- ANIMATED TYPING -->
