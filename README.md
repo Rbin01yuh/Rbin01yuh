@@ -1,7 +1,7 @@
 <div align="center"> 
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api? type=waving&color=gradient&customColorList=12&height=180&section=header&text=Ridho%20Bintang%20Aulia&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Ridho%20Bintang%20Aulia&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35"/>
  
 <!-- PROFILE PHOTO -->
 <img src="./lau sape mpruy.jpg" width="350" style="border-radius: 20px;"/>
